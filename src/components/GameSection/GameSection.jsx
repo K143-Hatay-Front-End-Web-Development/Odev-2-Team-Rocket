@@ -31,11 +31,11 @@ function GameSection() {
 
   // Check Winner
   useEffect(() => {
-    const checkWinner = () => {
-      return console.log(winConditions);
+    const checkWinner = (conditions) => {
+      return conditions;
     };
 
-    checkWinner();
+    checkWinner(winConditions);
   }, [board]);
 
   return (

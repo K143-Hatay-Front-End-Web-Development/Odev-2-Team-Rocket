@@ -4,8 +4,8 @@ A Tic-Tac-Toe game built with React.
 
 ## Team Members
 
-- Melin Kan
-- Kadir Boylu
+- [Melin Kan](https://github.com/duvainel)
+- [Kadir Boylu](https://github.com/kadirboylu)
 
 ## Content
 
