@@ -29,3 +29,11 @@
   background-color: #0026ed;
   color: #fff;
 }
+
+.button.x-win {
+  border-color: #ff0505;
+}
+
+.button.o-win {
+  border-color: #0026ed;
+}
