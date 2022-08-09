@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+  background-color: #f3b18c;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 44px;
+  line-height: 65px;
+  color: #0026ed;
+}
