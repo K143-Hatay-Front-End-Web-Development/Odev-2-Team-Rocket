@@ -1,4 +1,4 @@
-.btn-row {
-  width: 100%;
-  display: flex;
+.game-wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
 }
