@@ -2,7 +2,7 @@
 
 A Tic-Tac-Toe game built with React.
 
-[Tic-Tac-Toe Game](https://kodluyoruz-tictactoe.netlify.app/)
+[See Demo App on Netlify](https://kodluyoruz-tictactoe.netlify.app/)
 
 ## Team Members
 
