@@ -22,7 +22,7 @@ const winConditions = [
 function GameSection() {
   // Game Board Status
   const [board, setBoard] = useState(Array(9).fill(""));
-  //Winner status
+  // Winner Status
   const [winner, setWinner] = useState(null);
 
   // Check Winner
@@ -41,6 +41,7 @@ function GameSection() {
   }, [board]);
 
   return (
+    // Create game board and all buttons
     <div className="game-wrapper">
       {board.map((_, index) => {
         return (
